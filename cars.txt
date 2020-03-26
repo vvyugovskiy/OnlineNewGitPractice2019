@@ -5,3 +5,4 @@ BMW 3
 BMW X6
 Kia Optima
 Mercedes s500
+Lexus GX470
